@@ -29,7 +29,6 @@ public class FirstRepeatingElement {
 		} else {
 			System.out.println("There are no repeating elements");
 		}
-
 	}
 
 }
